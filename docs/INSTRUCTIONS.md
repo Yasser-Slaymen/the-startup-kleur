@@ -32,7 +32,7 @@ Deze opdracht gaat over [analyseren](#analyseren) en [ontwerpen](#ontwerpen).
   
 - De kleurencirkel en kleurpaletten (complementair, analoog, monochroom). 
 - Kleurverhoudingen (wat heb je gebruikt als hoofdkleur? wat is een steunkleur? en waarom?).  
-- Tint, verzadiging en helderheid
+- Tint, verzadiging en helderheid.
   
 
 #### Materiaal analysefase
@@ -75,4 +75,4 @@ Deze taak is 'done' als:
 - [ ] Je in je beschrijving duidelijk maakt dat je de basisprincipes kleur kent en begrijpt.
 - [ ] Je kan uitleggen waarom je bepaalde keuzes in kleur hebt gemaakt.
 - [ ] Je de kleur hebt verbeterd waar nodig.
-- [ ] De opdracht is gedocumenteerd in de Readme van de leertaak
+- [ ] De opdracht is gedocumenteerd in de Readme van de leertaak.
