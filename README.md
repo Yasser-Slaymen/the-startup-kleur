@@ -3,21 +3,16 @@
 # Kleur kiezien
 
 < 📸  ![Screenshot (199)](https://user-images.githubusercontent.com/90189815/151872751-005c2596-debb-4497-8d73-ebda0af63b74.png)
->
 
-## Inhoudsopgave
-
-  * [Beschrijving](#beschrijving)
-  * [Kenmerken](#kenmerken)
-  * [Installatie](#installatie)
-  * [Gebruik](#gebruik)
-  * [Bronnen](#bronnen)
-  * [Licentie](#licentie)
 
 ## Beschrijving
-<!-- In de Beschrijving staat hoe je project er uit ziet, hoe het werkt en wat je er mee kan. -->
+ ik koos een aantal kleuren uit dezelfde familie,
+ blauw in verschillende gradaties, en ik koos er ook voor om het schrift in het wit te hebben,
+ als de achtergrond wit is, nu helpt het contrast erin om de woorden leesbaar te maken,
+ en ook de algemene achtergrond is dichter bij de blauwe kleur, zodat de elementen 
+ en achtergrond homogeen of dichtbij zijn
 
-<!-- Voeg een link toe naar Github Pages 🌐-->
+🌐 https://yasser-slaymen.github.io/saml-zelftestapp-campaign-website-flow/
 
 ## Kenmerken
 <!-- Bij Kenmerken staat welke technieken zijn gebruikt en hoe. Wat is de HTML structuur? Wat zijn de belangrijkste dingen in CSS? Wat is er met Javascript gedaan en hoe? Misschien heb je een framwork of library gebruikt? -->
