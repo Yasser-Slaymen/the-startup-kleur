@@ -1,7 +1,7 @@
 > _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-Kleur kiezien
+# Kleur kiezien
+
 < 📸  ![Screenshot (199)](https://user-images.githubusercontent.com/90189815/151872751-005c2596-debb-4497-8d73-ebda0af63b74.png)
 >
 
